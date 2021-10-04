@@ -15,7 +15,6 @@ import numpy as np
 class BPTT(object):
     """
     Convenience design pattern for handling simple recurrent graphs, implementing backpropagation through time.
-    See https://medium.com/@devnag/
 
     Typical usage:
 
